@@ -1,6 +1,6 @@
 # Hey, I'm Lucas 👋
 
-I'm a biologist first.
+I'm a Biologist/Mathematics graduate from Western Washington University. 
 
 I've wanted to be one since I was nine years old. Mathematics found me later through an ecology modeling project, and now I spend most of my time somewhere between biology, mathematics, and computation.
 
