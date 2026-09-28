@@ -1,8 +1,8 @@
 # Hey, I'm Lucas 👋
 
-I'm a Biologist/Mathematics graduate from Western Washington University. 
+I'm a Mathematics and Biology graduate from Western Washington University.
 
-I've wanted to be one since I was nine years old. Mathematics found me later through an ecology modeling project, and now I spend most of my time somewhere between biology, mathematics, and computation.
+I've wanted to be a biologist since I was nine years old. Mathematics found me later through an ecology modeling project, and now I spend most of my time somewhere between biology, mathematics, and computation.
 
 I'm interested in computational genomics, mathematical epidemiology, scientific machine learning, and dynamical systems. My long-term goal is to build mathematically grounded, interpretable methods for studying biological systems.
 
