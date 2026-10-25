@@ -24,9 +24,6 @@ Bayesian state-space and stochastic epidemic models exploring disease progressio
 
 Infectious-disease time-series analysis using forecasting, decomposition, multichannel singular spectrum analysis, and lagged climate–outbreak relationships.
 
-### 🔬 Poisson–Hankel–Koopman Genomic Surveillance
-
-Ongoing research exploring numerical linear algebra, spectral methods, and operator-theoretic approaches to viral genomic evolution.
 
 ## What I’m Working Toward
 
