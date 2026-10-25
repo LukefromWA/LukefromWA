@@ -22,17 +22,16 @@ Bayesian state-space and stochastic epidemic models exploring disease progressio
 
 ### 📈 [Epidemiological Time Series](https://github.com/LukefromWA/Epidemiological-TimeSeries)
 
-Infectious-disease time-series analysis using forecasting, decomposition, multichannel singular spectrum analysis, and lagged climate–outbreak relationships.
-
+Infectious-disease time-series analysis using forecasting, decomposition, multichannel singular spectrum analysis, and lagged relationships between climate variables and outbreaks.
 
 ## What I’m Working Toward
 
-As I move into graduate study, I’m developing my foundations in:
+As I move into graduate study, I’m continuing to build my foundations in:
 
 - Scientific machine learning and statistical inference
 - Computational genomics
-- Numerical linear algebra and spectral methods
-- Operator theory and stochastic dynamical systems
+- Numerical linear algebra
+- Stochastic dynamical systems
 - Graph theory and biological networks
 - Implementing machine-learning methods from first principles
 
@@ -52,11 +51,3 @@ This GitHub is a record of that process: research projects, reusable workflows, 
 
 | Area | Tools |
 |---|---|
-| Languages | R, Python, Stan, MATLAB, Bash/Linux |
-| Scientific computing | data.table, tidyverse, Matrix, NumPy, pandas, SciPy, scikit-learn, CmdStanR |
-| Computational biology | Bioconductor, Ensembl VEP, HPO, STRING, Reactome, igraph |
-| Research workflows | Snakemake, Git/GitHub, HPC, LaTeX |
-
----
-
-Still learning. Still building.
