@@ -49,5 +49,18 @@ This GitHub is a record of that process: research projects, reusable workflows, 
 
 ## Tools & Methods
 
-| Area | Tools |
-|---|---|
+### Programming
+R · Python · Stan · MATLAB · Bash/Linux
+
+### Scientific Computing
+data.table · tidyverse · Matrix · NumPy · pandas · SciPy · scikit-learn · CmdStanR
+
+### Computational Biology
+Bioconductor · Ensembl VEP · HPO · STRING · Reactome · igraph
+
+### Research Workflows
+Snakemake · Git/GitHub · HPC · LaTeX
+
+---
+
+Still learning. Still building.
